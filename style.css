@@ -1,0 +1,33 @@
+/* BODY GENERAL */
+
+body {
+    background-color: whitesmoke;
+    font-family: 'Roboto', sans-serif;
+}
+
+/* BLOQUE PRODUCTOS */
+
+.titulo {
+
+    font-size: 30px;
+    text-align: left;
+    padding: 10px 10px 10px;
+    font-weight: bold;
+    border-bottom: 1px solid rgb(225, 215, 215);
+    display: flex;
+    align-items: center;
+}
+
+/*FOOTER*/
+
+.footer-text {
+    font-size: 13px;
+    text-align: center;
+    display: block;
+    padding: 10px 10px 10px;
+    font-weight: bold;
+}
+
+.footer {
+    border-top: 1px solid rgb(225, 215, 215);
+}
